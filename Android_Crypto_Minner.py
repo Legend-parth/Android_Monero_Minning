@@ -5,7 +5,7 @@ import time
 import re
 import sys
 
-NAME = "CRYPTOGRAPHYTUBE XMR MINER"
+NAME = "Legends Minner -- Legends Start here in a Legendary Way"
 
 def get_max_threads():
     try:
